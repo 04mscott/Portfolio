@@ -29,7 +29,7 @@ Many of my projects are listed in multiple categories, as they combine multiple 
 ## Full Stack
 | Project | Skills | Description |
 | --- | --- | --- |
-| **Planned** Job Application & Interview Tracker | React js, Spring Boot, Restful API, User Authentication | Implement a full stack application to help users track the jobs and companies they've applied to, gotten interviews for, etc. |
+| ***Planned*** Job Application & Interview Tracker | React js, Spring Boot, Restful API, User Authentication | Implement a full stack application to help users track the jobs and companies they've applied to, gotten interviews for, etc. |
 
 ## C
 | Project | Skills | Description |
