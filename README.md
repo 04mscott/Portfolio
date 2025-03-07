@@ -22,9 +22,16 @@ Many of my projects are listed in multiple categories, as they combine multiple 
 | [Housing Cost Linear Regression Model](https://github.com/04mscott/Housing-Price-Prediction-Model-) | Pandas, Scikit-Learn, Linear Regression | Implemented multiple linear regression models to predict house prices using a kaggle dataset |
 
 ## React
-
+| Project | Skills | Description |
+| --- | --- | --- |
+| [Personal Website](https://masonscott.net/) | JavaScript, React js, HTML, CSS, Front End Development | Developed a personal website to showcase my skills and projects, using smooth animations, a clean ui, and appealing format |
 
 ## Full Stack
-
+| Project | Skills | Description |
+| --- | --- | --- |
+| **Planned** Job Application & Interview Tracker | React js, Spring Boot, Restful API, User Authentication | Implement a full stack application to help users track the jobs and companies they've applied to, gotten interviews for, etc. |
 
 ## C
+| Project | Skills | Description |
+| --- | --- | --- |
+| [C Sorting Algorithms](https://github.com/04mscott/Sorting-Functions-C-) | C, Python, Sorting, Time Complexity | Implemented 8 popular sorting algorithms in C and ran benchmark tests on a number of randomized lists of varying length. These benchmarks were then viisualized using the ctypes library to interface with the c program and MatPlotLib to graph the benchmarks |
