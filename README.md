@@ -3,7 +3,7 @@ Welcome to my portfolio! I keep track of all of my completed and in progress pro
 
 ## 📚 Table of Contents
 Many of my projects are listed in multiple categories, as they combine multiple elements/languages. I also have some of my planned projects listed here as well!
-+ [ML](#ml)
++ [Python](#python)
 + [Data Science](#data-science)
 + [React](#react)
 + [Full Stack](#full-stack)
