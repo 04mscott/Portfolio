@@ -3,13 +3,13 @@ Welcome to my portfolio! I keep track of all of my completed and in progress pro
 
 ## 📚 Table of Contents
 Many of my projects are listed in multiple categories, as they combine multiple elements/languages. I also have some of my planned projects listed here as well!
-+ [Python](#python)
++ [Python/ML](#python/ml)
 + [Data Science](#data-science)
 + [React](#react)
 + [Full Stack](#full-stack)
 + [C](#c)
 
-## Python
+## Python/ML
 | Project | Skills | Description |
 | --- | --- | --- |
 | ** ***In Progress*** ** [Recommendation API](https://github.com/04mscott/Recommendation-API) | Python, Flask, Sklearn, Vector embeddings, MySQL, AWS, Relational databases | Implemented an API that pulls a users song data from Spotify and stores it in a database, as well as vector embeddings, which are used to make recommendations using cosine similarity. The MySQL database is then used to cross reference top songs, saved songs, etc. for each user |
