@@ -9,11 +9,12 @@ Many of my projects are listed in multiple categories, as they combine multiple 
 + [Full Stack](#full-stack)
 + [C](#c)
 
-## ML
+## Python
 | Project | Skills | Description |
 | --- | --- | --- |
 | [Air Quality Prediction App](https://github.com/04mscott/Air-Quality-App/blob/main/README.md) | Python, Tensorflow LSTM, Time Series Modeling, Data Cleaning/Processing, API Integration, AWS RDS, MySQL, Strealit | Implemented an LSTM model to predict 8 pollutant concentration based on data from OpenWeatherMap API. Training set from same API and stored in AWS MySQL Database. Streamlit GUI with interactve graph and user input. Deployed on Render [here](https://air-quality-app-wr4z.onrender.com/). |
 | [Face Mask Image Classifier](https://github.com/04mscott/Face-Mask-Image-Classification) | Python, Tensorflow CNN, Image Classification, TaiPy | Implemented an image classification model designed to detect if a person is wearing a mask correctly, takes user input through TaiPy GUI, displays prediction along with confidence. |
+| [Recommendation API](https://github.com/04mscott/Recommendation-API) | Python, Flask, Sklearn, Vector embeddings, MySQL, AWS, Relational databases | Implemented an API that pulls a users song data from Spotify and stores it in a database, as well as vector embeddings, which are used to make recommendations using cosine similarity. The MySQL database is then used to cross reference top songs, saved songs, etc. for each user |
 
 ## Data Science
 | Project | Skills | Description |
@@ -29,7 +30,7 @@ Many of my projects are listed in multiple categories, as they combine multiple 
 ## Full Stack
 | Project | Skills | Description |
 | --- | --- | --- |
-| ** ***Planned*** ** Job Application & Interview Tracker | React js, Spring Boot, Restful API, User Authentication | Implement a full stack application to help users track the jobs and companies they've applied to, gotten interviews for, etc. |
+| ** ***In Progress*** ** [Song Recommendation App](https://github.com/04mscott/Song-Recommendation-App) | React js, Spring Boot, Restful API, OAuth2.0 | Implement a full stack application to help users find songs based on their Spotify listening history and using the [Recommendation API](https://github.com/04mscott/Recommendation-API) |
 
 ## C
 | Project | Skills | Description |
