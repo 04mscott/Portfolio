@@ -30,7 +30,7 @@ Many of my projects are listed in multiple categories, as they combine multiple 
 ## Full Stack
 | Project | Skills | Description |
 | --- | --- | --- |
-| ** ***In Progress*** ** [Song Recommendation App](https://github.com/04mscott/Song-Recommendation-App) | React js, Spring Boot, Restful API, OAuth2.0 | Implement a full stack application to help users find songs based on their Spotify listening history and using the [Recommendation API](https://github.com/04mscott/Recommendation-API) |
+| ** ***In Progress*** ** [Song Recommendation App](https://github.com/04mscott/Song-Recommendation-App) | React js, Spring Boot, Restful API, OAuth2.0 | Implement a full stack application to help users find songs based on their Spotify listening history in a dating app style, where they swipe left and right through song recommendations, which are made by the [Recommendation API](https://github.com/04mscott/Recommendation-API). When a user swipes right on a song in the app, not only does it influence future recommendaitons, but it adds the song directly to their Liked Songs in Spotify without having to leave the app! |
 
 ## C
 | Project | Skills | Description |
