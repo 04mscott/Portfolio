@@ -16,7 +16,7 @@ Projects are grouped by area of focus, but many combine multiple technologies. S
 | Project | Skills | Description |
 | --- | --- | --- |
 | [Recommendation API](https://github.com/04mscott/Recommendation-API) | Python, FastAPI, Scikit-learn, Celery, Redis, Vector Embeddings, MySQL, Docker | Built a high-performance API to pull Spotify listening data, generate vector embeddings, and make cosine similarity-based song recommendations. Data is stored in a MySQL database and served to a full-stack music app. |
-| [Air Quality Prediction App](https://github.com/04mscott/Air-Quality-App/blob/main/README.md) | Python, TensorFlow LSTM, Time Series, Data Cleaning, API Integration, AWS RDS, Streamlit | Trained an LSTM model on air pollution data to forecast 8 pollutant concentrations using real-time OpenWeatherMap API inputs. Built a user-friendly dashboard in Streamlit and deployed on Render. |
+| [Air Quality Prediction App](https://github.com/04mscott/Air-Quality-App) | Python, TensorFlow LSTM, Time Series, Data Cleaning, API Integration, AWS RDS, Streamlit | Trained an LSTM model on air pollution data to forecast 8 pollutant concentrations using real-time OpenWeatherMap API inputs. Built a user-friendly dashboard in Streamlit and deployed on Render. |
 | [Face Mask Image Classifier](https://github.com/04mscott/Face-Mask-Image-Classification) | Python, TensorFlow CNN, Image Classification, TaiPy | Built a CNN to classify proper face mask usage. Integrated a TaiPy GUI for real-time predictions and confidence display from uploaded images. |
 
 ## Data Science
