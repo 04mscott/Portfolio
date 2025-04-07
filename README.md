@@ -1,38 +1,41 @@
 # Mason's Portfolio
-Welcome to my portfolio! I keep track of all of my completed and in progress projects here.
+
+Welcome to my portfolio! Here I track all of my completed and in-progress projects. Many of these projects span multiple domains, including web development, machine learning, and systems programming.
 
 ## 📚 Table of Contents
-Many of my projects are listed in multiple categories, as they combine multiple elements/languages. I also have some of my planned projects listed here as well!
-+ [Python/ML](#pythonml)
-+ [Data Science](#data-science)
-+ [React](#react)
-+ [Full Stack](#full-stack)
-+ [C](#c)
 
-## Python/ML
+Projects are grouped by area of focus, but many combine multiple technologies. Some planned projects are listed as well.
+
+- [Python / ML](#pythonml)
+- [Data Science](#data-science)
+- [React](#react)
+- [Full Stack](#full-stack)
+- [C](#c)
+
+## Python / ML
 | Project | Skills | Description |
 | --- | --- | --- |
-| [Recommendation API](https://github.com/04mscott/Recommendation-API) | Python, FastAPI, Sklearn, Celery, Redis, Vector embeddings, MySQL, Relational databases, Docker | Implemented an API that pulls a users song data from Spotify and stores it in a database, as well as vector embeddings, which are used to make recommendations using cosine similarity. The MySQL database is then used to cross reference top songs, saved songs, etc. for each user. API specifically designed for use in my [Song Recommendation App](https://github.com/04mscott/Song-Recommendation-App) |
-| [Air Quality Prediction App](https://github.com/04mscott/Air-Quality-App/blob/main/README.md) | Python, Tensorflow LSTM, Time Series Modeling, Data Cleaning/Processing, API Integration, AWS RDS, MySQL, Strealit | Implemented an LSTM model to predict 8 pollutant concentration based on data from OpenWeatherMap API. Training set from same API and stored in AWS MySQL Database. Streamlit GUI with interactve graph and user input. Deployed on Render [here](https://air-quality-app-wr4z.onrender.com/). |
-| [Face Mask Image Classifier](https://github.com/04mscott/Face-Mask-Image-Classification) | Python, Tensorflow CNN, Image Classification, TaiPy | Implemented an image classification model designed to detect if a person is wearing a mask correctly, takes user input through TaiPy GUI, displays prediction along with confidence. |
+| [Recommendation API](https://github.com/04mscott/Recommendation-API) | Python, FastAPI, Scikit-learn, Celery, Redis, Vector Embeddings, MySQL, Docker | Built a high-performance API to pull Spotify listening data, generate vector embeddings, and make cosine similarity-based song recommendations. Data is stored in a MySQL database and served to a full-stack music app. |
+| [Air Quality Prediction App](https://github.com/04mscott/Air-Quality-App/blob/main/README.md) | Python, TensorFlow LSTM, Time Series, Data Cleaning, API Integration, AWS RDS, Streamlit | Trained an LSTM model on air pollution data to forecast 8 pollutant concentrations using real-time OpenWeatherMap API inputs. Built a user-friendly dashboard in Streamlit and deployed on Render. |
+| [Face Mask Image Classifier](https://github.com/04mscott/Face-Mask-Image-Classification) | Python, TensorFlow CNN, Image Classification, TaiPy | Built a CNN to classify proper face mask usage. Integrated a TaiPy GUI for real-time predictions and confidence display from uploaded images. |
 
 ## Data Science
 | Project | Skills | Description |
 | --- | --- | --- |
-| [Data Analysis Report - Class Project](https://masonscott.net/static/media/HW%203%20Report%20-%20Mason%20Scott.bc9e7591820ff485558a.pdf) | Python, Pandas, Data Cleaning/Processing, Data Visualization, Statistical Testing | Using an anonymous survey response dataset from 3 classes, analyzed data to draw conlusions on human morality and decision making from answers to Reddit AITA style questions. Includes statistical tests and MatPlotLib visualizations for comparing groups within the dataset |
-| [Housing Cost Linear Regression Model](https://github.com/04mscott/Housing-Price-Prediction-Model-) | Pandas, Scikit-Learn, Linear Regression | Implemented multiple linear regression models to predict house prices using a kaggle dataset |
+| [Reddit AITA Data Analysis (Class Project)](https://masonscott.net/static/media/HW%203%20Report%20-%20Mason%20Scott.bc9e7591820ff485558a.pdf) | Python, Pandas, Statistical Testing, Visualization | Used chi-square tests and data wrangling to study moral judgment across political affiliations using AITA-style questions from a survey dataset. Visualized results using Matplotlib. |
+| [Housing Price Predictor](https://github.com/04mscott/Housing-Price-Prediction-Model-) | Pandas, Scikit-learn, Linear Regression | Built and tuned linear regression models on Kaggle housing data to predict sale prices. Performed feature engineering and model evaluation.
 
 ## React
 | Project | Skills | Description |
 | --- | --- | --- |
-| [Personal Website](https://masonscott.net/) | JavaScript, React js, HTML, CSS, Front End Development | Developed a personal website to showcase my skills and projects, using smooth animations, a clean ui, and appealing format |
+| [Personal Website](https://masonscott.net/) | JavaScript, React, HTML, CSS | Designed and built a personal portfolio website with smooth animations, responsive layout, and project integration.
 
 ## Full Stack
 | Project | Skills | Description |
 | --- | --- | --- |
-| ** ***In Progress*** ** [Song Recommendation App](https://github.com/04mscott/Song-Recommendation-App) | React js, Spring Boot, Restful API, OAuth2.0 | Implement a full stack application to help users find songs based on their Spotify listening history in a dating app style, where they swipe left and right through song recommendations, which are made by the [Recommendation API](https://github.com/04mscott/Recommendation-API). When a user swipes right on a song in the app, not only does it influence future recommendaitons, but it adds the song directly to their Liked Songs in Spotify without having to leave the app! |
+| **In Progress**: [Song Recommendation App](https://github.com/04mscott/Song-Recommendation-App) | React, Spring Boot, REST API, OAuth2 | Full-stack app that helps users discover music through a swipe-based UI. Recommends songs based on Spotify listening history using backend vector embeddings. Swiping right automatically adds a song to the user’s Spotify liked tracks.
 
 ## C
 | Project | Skills | Description |
 | --- | --- | --- |
-| [C Sorting Algorithms](https://github.com/04mscott/Sorting-Functions-C-) | C, Python, Sorting, Time Complexity | Implemented 8 popular sorting algorithms in C and ran benchmark tests on a number of randomized lists of varying length. These benchmarks were then viisualized using the ctypes library to interface with the c program and MatPlotLib to graph the benchmarks |
+| [Sorting Algorithm Benchmarks](https://github.com/04mscott/Sorting-Functions-C-) | C, Python, Time Complexity, Data Viz | Implemented 8 sorting algorithms in C and benchmarked their performance across various input sizes. Used `ctypes` to interface with Python and visualized performance with Matplotlib.
