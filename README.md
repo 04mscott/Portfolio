@@ -15,7 +15,7 @@ Projects are grouped by area of focus, but many combine multiple technologies. S
 ## Full Stack
 | Project | Skills | Description |
 | --- | --- | --- |
-| **In Progress**: [Song Recommendation App](https://github.com/04mscott/Song-Recommendation-App) | React, Spring Boot, REST API, OAuth2 | Full-stack app that helps users discover music through a swipe-based UI. Recommends songs based on Spotify listening history using backend vector embeddings. Swiping right automatically adds a song to the user’s Spotify liked tracks.
+| **In Progress**: [Impulse - Music Recommendation App](https://github.com/04mscott/Impulse-Music-Recs) | React, Spring Boot, REST API, OAuth2 | Full-stack app that helps users discover music through a swipe-based UI. Recommends songs based on Spotify listening history using backend vector embeddings. Swiping right automatically adds a song to the user’s Spotify liked tracks.
 
 ## Python / ML
 | Project | Skills | Description |
