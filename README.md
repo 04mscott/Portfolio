@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! Here I track all of my completed and in-progress projects. Many of these projects span multiple domains, including web development, machine learning, and systems programming.
 
-## 📚 Table of Contents
+## Table of Contents
 
 Projects are grouped by area of focus, but many combine multiple technologies. Some planned projects are listed as well.
 
