@@ -13,7 +13,7 @@ Projects are grouped by area of focus, but many combine multiple technologies. S
 ## Full Stack
 | Project | Skills | Description |
 | --- | --- | --- |
-| **In Progress**: [Impulse - Music Recommendation App](https://github.com/04mscott/Impulse-Music-Recs) | React, FastAPI, Spring Boot, REST API, OAuth2, Docker, Redis, Celery, PostgreSQL | Full-stack music recommendation app with a swipe-based UI. Recommends songs based on Spotify listening history using backend vector embeddings and async featurization pipelines. Swiping right automatically adds a song to the user's Spotify liked tracks. |
+| [Impulse - Music Recommendation App](https://github.com/04mscott/Impulse-Music-Recs) | React, FastAPI, Spring Boot, REST API, OAuth2, Docker, Redis, Celery, PostgreSQL | Full-stack music recommendation app with a swipe-based UI, built but not released due to Spotify API access restrictions. Recommends songs based on Spotify listening history using backend vector embeddings and async featurization pipelines. Swiping right automatically adds a song to the user's Spotify liked tracks. |
 | [EngageCS - Student Engagement Analytics Platform](https://github.com/04mscott) | Python, Dash, Flask, PostgreSQL, Plotly, Docker, Valkey | 6-person capstone commissioned by a UMD CS instructor and deployed to production for live classroom use with approximately 140 students per session. Served as data engineer and analytics lead: designed the PostgreSQL schema, built the Canvas LMS sync pipeline, led a V2 schema migration, and authored two internal Python libraries for data processing and visualization. Delivered instructor, TA, and student dashboards with risk scoring and topic engagement analytics. |
 
 ## Python / ML
